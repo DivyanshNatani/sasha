@@ -3,13 +3,9 @@ title: Features of Sasha
 subtitle: What all SASHA can do
 layout: default
 modal-id: 1
-date: 2014-07-18
 img: features.jpg
 thumbnail: features-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: <h1>Features of our bot</h1><ul><li> Password protected.</li><li> Can change password.</li><li> Informs the owners of chatbot for password change through E-Mail.</li><li> Asks the user for name and assigns the chat a particular name and creates a DataBase for the Same.</li><li> Can detect various commands like hi,hello etc and reply accordingly.</li><li> Can switch on/off fans lights etc via commands.</li><li> Logs the commands into a csv file for history reference.</li><li> If a device is On and someone inputs to on it, bot replies with message as it's already on and vice-versa.</li><li> It replies in an informative manner when someone ask it what can it do, etc.</li> <li> The code for Alexa integration is ready and we are waiting for the hardware to arrive.</li><li> It can tell us jokes.</li><li> It can tell us current news when typed the section of news required like sports news, etc both in written as well as audio format.</li><li> It can tell weather reports of over 500 cities of India when asked to "Tell weather of __City__", etc. </li></ul>
+description: <ul style="text-align="left";><li> Password protected.</li><li> Can change password.</li><li> Informs the owners of chatbot for password change through E-Mail.</li><li> Asks the user for name and assigns the chat a particular name and creates a DataBase for the Same.</li><li> Can detect various commands like hi,hello etc and reply accordingly.</li><li> Can switch on/off fans lights etc via commands.</li><li> Logs the commands into a csv file for history reference.</li><li> If a device is On and someone inputs to on it, bot replies with message as it's already on and vice-versa.</li><li> It replies in an informative manner when someone ask it what can it do, etc.</li> <li> The code for Alexa integration is ready and we are waiting for the hardware to arrive.</li><li> It can tell us jokes.</li><li> It can tell us current news when typed the section of news required like sports news, etc both in written as well as audio format.</li><li> It can tell weather reports of over 500 cities of India when asked to "Tell weather of _City_", etc. </li></ul>
 
 ---
