@@ -1,6 +1,6 @@
 ---
 title: Features of Sasha
-subtitle: What all SASHA can do..
+subtitle: What all SASHA can do...
 layout: default
 modal-id: 1
 date: 2014-07-18
