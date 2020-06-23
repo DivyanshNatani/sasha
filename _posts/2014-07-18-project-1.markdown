@@ -4,8 +4,8 @@ subtitle: What all SASHA can do..
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: features.svg
-thumbnail: features.svg
+img: features.jpg
+thumbnail: features.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
