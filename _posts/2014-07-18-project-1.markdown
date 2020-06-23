@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. <B> At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, <span>populo</span> diceret necessitatibus in vim.</B> Cu eum dicam feugiat noluisse.
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis.<br> <B> At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, <span>populo</span> diceret necessitatibus in vim.</B> Cu eum <i>dicam</i> feugiat noluisse.<h1> yes we are ready</h1>
 
 ---
