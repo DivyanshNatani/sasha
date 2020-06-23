@@ -7,9 +7,6 @@ date: 2014-07-17
 img: expactation.png
 thumbnail: expactation-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: <ul>
 <li>Final project would be a Hardware model which would include some Prototype devices like light, fan,etc. which we can control with the help of our ChatBot via Telegram.</li>
 <li>The Work of Alexa Integration would get complete and thus, we can also operate our devices with the help of Alexa.</li>
