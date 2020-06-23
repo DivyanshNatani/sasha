@@ -12,7 +12,7 @@ people:
 - name: Omkar Ghugarkar
   pic: 4
   position: Team Leader
-social:
+  social:
     - title: instagram
       url: https://www.instagram.com/mr.omkar.ghugarkar.007/
     - title: facebook
@@ -61,7 +61,7 @@ social:
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
+    url: https://www.facebook.com/akshat.zalte
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket 
