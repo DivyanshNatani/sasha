@@ -1,15 +1,20 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Final Project Expectations
+subtitle: What you can expect from final project
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: expactation.png
+thumbnail: expactation.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: <ul>
+<li>Final project would be a Hardware model which would include some Prototype devices like light, fan,etc. which we can control with the help of our ChatBot via Telegram.</li>
+<li>The Work of Alexa Integration would get complete and thus, we can also operate our devices with the help of Alexa.</li>
+<li>Our Chatbot will also be able to have basic conversation with humans and also give information regarding news, weather,etc.</li>
+<li>We are also thinking of creating a website for our project which would be able to answer all the queries regarding S.A.S.H.A and give a brief introduction of the various features.</li>
+</ul>
 
 ---

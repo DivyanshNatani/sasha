@@ -2,56 +2,59 @@
 # Site settings
 title: S.A.S.H.A
 email: team.automatediitb@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Smart Artificial System with Home Automation"
 baseurl: "/sasha"
 url: ""
 
 
 # Team names, titles and social links
 people:
-- name: Divyansh Natani
+- name: Omkar Ghugarkar
   pic: 4
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
+  position: Team Leader
+social:
+    - title: instagram
+      url: https://www.instagram.com/mr.omkar.ghugarkar.007/
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Divyansh Natani
-  pic: 4
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+      url: https://www.facebook.com/omkarghugarkar7
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/omkar-ghugarkar-94b897194/
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Bhuvan Aggarwal
+  pic: 4
+  position: Lead Coder
   social:
-    - title: twitter
-      url: #
+    - title: instagram
+      url: https://www.instagram.com/bhuvan__18/
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/bhuvan.aggarwal.16
+    - title: linkedin
+      url: https://www.linkedin.com/in/bhuvan-aggarwal-77b1b4191/
+
+- name: Divyansh Natani
+  pic: 4
+  position: Asst. Coder and Lead Designer
+  social:
+    - title: instagram
+      url: https://www.instagram.com/divyansh_natani/
+    - title: facebook
+      url: https://www.facebook.com/divyansh.natani.142
+    - title: linkedin
+      url: https://www.linkedin.com/in/divyansh-natani-b59389193/
+
+      
+- name: Akshat Zalte
+  pic: 4
+  position: Hardware Expert 
+  social:
+    - title: instagram
+      url: https://www.instagram.com/akshat_zalte/
+    - title: facebook
+      url: https://www.facebook.com/akshat.zalte
+    - title: linkedin
+      url: https://www.linkedin.com/in/akshat-zalte-a78262196/
+
+      
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

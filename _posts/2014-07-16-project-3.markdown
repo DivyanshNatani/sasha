@@ -1,15 +1,21 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Code
+subtitle: About the code
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: code.jpg
+thumbnail: code.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: We have hosted our code on Github Repo <br>
+<a href="https://github.com/invisibleflame/Team_Automated" target="_blank">Link to Github Repo</a>
+<br>
+<br>
+The code for the Chatbot platform of S.A.S.H.A is close 400 lines written in Python Programming Language using various libraries such as the telegram, smtplib, csv, datetime, requests, newsapi, gtts and many more waiting to be added.
+Along with this it include the Various updated supporting files for the bot such as the csv file including history logs, identity database and password database . 
+
 
 ---
