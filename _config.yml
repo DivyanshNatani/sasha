@@ -10,7 +10,7 @@ url: ""
 # Team names, titles and social links
 people:
 - name: Omkar Ghugarkar
-  pic: 4
+  pic: 11
   position: Team Leader
   social:
     - title: instagram
@@ -21,7 +21,7 @@ people:
       url: https://www.linkedin.com/in/omkar-ghugarkar-94b897194/
 
 - name: Bhuvan Aggarwal
-  pic: 4
+  pic: 12
   position: Lead Coder
   social:
     - title: instagram
@@ -32,7 +32,7 @@ people:
       url: https://www.linkedin.com/in/bhuvan-aggarwal-77b1b4191/
 
 - name: Divyansh Natani
-  pic: 4
+  pic: 13
   position: Asst. Coder and Lead Designer
   social:
     - title: instagram
@@ -44,7 +44,7 @@ people:
 
       
 - name: Akshat Zalte
-  pic: 4
+  pic: 14
   position: Hardware Expert 
   social:
     - title: instagram
