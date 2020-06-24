@@ -1,5 +1,5 @@
 ---
-title: Final Project Expectations
+title: Conclusion/Future Plans
 subtitle: What you can expect from final project
 layout: default
 modal-id: 2
@@ -7,5 +7,6 @@ date: 2014-07-17
 img: expectation.png
 thumbnail: expectation-thumbnail.png
 alt: image-alt
-description: <ul style="text-align:left;"><li>Final project would be a Hardware model which would include some Prototype devices like light, fan,etc. which we can control with the help of our ChatBot via Telegram.</li><li>The Work of Alexa Integration would get complete and thus, we can also operate our devices with the help of Alexa.</li><li>Our Chatbot will also be able to have basic conversation with humans and also give information regarding news, weather,etc.</li><li>We are also thinking of creating a website for our project which would be able to answer all the queries regarding S.A.S.H.A and give a brief introduction of the various features.</li></ul>
+description: <ul style="text-align:left;"><li>We were able to create a chatbot successfully using NLP.</li><li>Home Automation was successfully included in SASHA.</li><li>Integrating SASHA with ALEXA would be the next big step once we get access to Hardware, thus would be able to take Audio inputs.</li><li>Adding various hardware devices and Raspberry pi can be done very easily to SASHA.</li><li>We can extend the idea of SASHA to Smart Home applications and make a Green Home System which would help us to reduce electricity cost.</li><li>SASHA can be very effectively implemented HVAC system which stands for Heating, Ventilation and Air Conditioning.</li>
+ 
 ---
