@@ -370,17 +370,14 @@ section h3.section-subheading {
         padding: 0px 50px;
         font-size: 22px;
     }
-    
-}
-@media(max-width:768px) {
-.iitb-logo{
-    width: 150px;
-    height: auto;
-}
-.itc-logo{
-    width: 200px;
-    height: auto;
-}
+    .iitb-logo{
+        width: 150px;
+        height: auto;
+    }
+    .itc-logo{
+        width: 200px;
+        height: auto;
+    }
 }
 
 .service-heading {
