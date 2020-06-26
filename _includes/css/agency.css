@@ -365,21 +365,22 @@ section h3.section-subheading {
     section {
         padding: 150px 0;
     }
+}
+
+@media(max-width:768px) {
     .section-subheading{
 
-        padding: 0px 50px;
-        font-size: 22px;
+        padding: 0px 10px;
+        font-size: 18px;
     }
-}
-@media(max-width:768px) {
-.iitb-logo{
+    .iitb-logo{
     width: 150px;
     height: auto;
-}
-.itc-logo{
+    }
+    .itc-logo{
     width: 200px;
     height: auto;
-}
+    }
 }
 
 .service-heading {
