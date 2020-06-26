@@ -360,19 +360,24 @@ section h3.section-subheading {
     font-style: italic;
     font-weight: 400;
 }
+.section-subheading{text-transform: none;
+    color: black;
+    font-family: serif; 
+    line-height: normal;
+}
 
 @media(min-width:768px) {
     section {
         padding: 150px 0;
     }
+    .section-subheading{text-transform: none;
+        color: black;
+        font-size: 22px;
+        font-family: serif; 
+        line-height: normal;
+        padding: 0px 50px;
+    }
 }
-.section-subheading{text-transform: none;
-     color: black;
-                    font-size: 22px;
-                     font-family: serif; 
-                     line-height: normal;
-                      padding: 0px 50px;
-                }
 @media(max-width:768px) {
     .section-subheading{
 
