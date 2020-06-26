@@ -7,5 +7,5 @@ date: 2014-07-16
 img: code-thumbnail.jpg
 thumbnail: code.jpg
 alt: image-alt
-description: We have hosted our code on Github Repo <br><a href="https://github.com/invisibleflame/Team_Automated" target="_blank">Link to Github Repo</a><br><br>The code for the Chatbot platform of S.A.S.H.A is close 400 lines written in Python Programming Language using various libraries such as the telegram, smtplib, csv, datetime, requests, newsapi, gtts and many more waiting to be added.<br>Along with this it include the Various updated supporting files for the bot such as the csv file including history logs, identity database and password database.
+description: We have hosted our code on Github Repo <br><a href="https://github.com/invisibleflame/Team_Automated" target="_blank">Link to Github Repo</a><br><br>The code for the Chatbot platform of S.A.S.H.A is 2200+ lines written in Python Programming Language using various libraries such as the telegram, smtplib, csv, datetime, requests, newsapi, gtts and many more waiting to be added.<br>Along with this it include the Various updated supporting files for the bot such as the csv file including history logs, identity database and password database.
 ---
